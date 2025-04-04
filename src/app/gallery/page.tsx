@@ -164,7 +164,7 @@ export default function Gallery() {
         </h1>
 
         <p className="text-center max-w-3xl mx-auto mb-10">
-          Take a visual journey through HEI Schools Gurugram, exploring our learning spaces, activities, events, and the vibrant educational environment we provide for our children.
+          Embark on a visual journey through Nook Junior School, discovering our engaging learning spaces, exciting activities, memorable events, and the dynamic educational environment we proudly offer our children.
         </p>
 
         {/* Category Filters */}
