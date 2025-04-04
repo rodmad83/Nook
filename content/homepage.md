@@ -1,26 +1,42 @@
 ---
 title: "HEI Schools Gurugram"
-intro1: "HEI Schools Gurugram, Sector 49 is our flagship location..."
-intro2: "Located in the vibrant community of Sector 49..."
+subtitle: "Educación para los primeros años"
+intro1: "HEI Schools Gurugram, Sector 49 is our flagship location in India, offering world-class early childhood education based on the renowned Finnish educational model."
+intro2: "Located in the vibrant community of Sector 49, our school features purpose-built facilities designed with children in mind."
 facilities:
   - "Modern, airy classrooms with natural light"
   - "Age-appropriate play areas and learning corners"
-  ...
+  - "Outdoor playground with natural elements"
+  - "Dedicated art and craft spaces"
+  - "Dining area serving nutritious meals"
+  - "Library with a diverse collection of books"
+  - "Multipurpose hall for activities and events"
+  - "Safe and secure campus with CCTV monitoring"
 programs:
-  - "<strong>Toddler Program:</strong> Ages 1.5–2.5 years"
-  ...
-approachIntro: "At HEI Schools Gurugram, we implement the Finnish educational approach..."
+  - "<strong>Toddler Program:</strong> Ages 1.5-2.5 years"
+  - "<strong>Preschool Program:</strong> Ages 2.5-4 years"
+  - "<strong>Kindergarten Program:</strong> Ages 4-6 years"
+  - "<strong>Extended Day:</strong> Before and after-school care"
+  - "<strong>Holiday Programs:</strong> During school breaks"
+  - "<strong>Parent-Child Workshops:</strong> Monthly sessions"
+approachIntro: "At HEI Schools Gurugram, we implement the Finnish educational approach, which is widely recognized as one of the most effective in the world."
 approachPoints:
   - "Foster children's natural curiosity and love of learning"
-  ...
-teamIntro: "Our educators are the heart of HEI Schools Gurugram..."
-teamDetails: "Our staff includes lead teachers..."
+  - "Develop essential social and emotional skills"
+  - "Build confidence and independence"
+  - "Encourage creativity and critical thinking"
+  - "Promote physical well-being and healthy habits"
+  - "Create a strong foundation for future academic success"
+teamIntro: "Our educators are the heart of HEI Schools Gurugram."
+teamDetails: "Our staff includes lead teachers, assistant teachers, specialists in music, art, and physical education, and administrative personnel who work together to create a positive and enriching experience for every child."
 schoolHoursDays: "Monday to Friday"
 schoolHoursTime: "8:00 AM - 4:00 PM"
 location:
   - "Plot No. 3, W-Block, Sai dham road"
-  ...
+  - "Uppal Southend, Sector 49"
+  - "Gurugram, Haryana - 122018"
 contact:
   - "+91-9910669519"
-  ...
+  - "+91-9910669507"
+  - "contact-us@heischoolssec49gurgaon.com"
 ---
